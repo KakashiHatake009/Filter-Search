@@ -3,8 +3,6 @@
 ```shell
 git clone https://github.com/KakashiHatake009/Filter-Search.git
 
-cd job
-
 npm install
 
 node server.js
@@ -14,4 +12,4 @@ node server.js
 
   - open `http://localhost:4000/api-docs/`
 
-  - test My api.
+  - test my api.
