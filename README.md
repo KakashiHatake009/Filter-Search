@@ -10,6 +10,6 @@ node server.js
 
 - Open browser
 
-  - open `http://localhost:4000/api-docs/`
+  - Open `http://localhost:4000/api-docs/`
 
-  - test my api.
+  - Test my api.
