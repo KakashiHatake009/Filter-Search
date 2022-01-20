@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Thus Spoke Zarathustra: A Book for All and None",
+      "category": "books",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Beyond Good and Evil",
+      "category": "books",
+      "rating": 2
+    },
+    {
+      "id": 3,
+      "name": "BELCO Aero-1 Foot Ball",
+      "category": "sports",
+      "rating": 1
+    },
+    {
+      "id": 4,
+      "name": "BELCO Sports Sphere Shiny Foot Ball",
+      "category": "sports",
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "name": "Diablo Panel Blue PU Football",
+      "category": "sports",
+      "rating": 4
+    },
+    {
+      "id": 6,
+      "name": "Chair",
+      "category": "furniture",
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "name": "Table",
+      "category": "furniture",
+      "rating": 1
+    },
+    {
+      "id": 8,
+      "name": "Pasta",
+      "category": "food",
+      "rating": 5
+    },
+    {
+      "id": 9,
+      "name": "Pizza",
+      "category": "food",
+      "rating": 1
+    },
+    {
+      "id": 10,
+      "name": "",
+      "category": "Doner",
+      "rating": 4
+    }
+  ]
+}
